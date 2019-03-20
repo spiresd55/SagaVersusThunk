@@ -1,0 +1,22 @@
+{
+  "name": "sagaversusthunk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spiresd55/SagaVersusThunk.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spiresd55/SagaVersusThunk/issues"
+  },
+  "homepage": "https://github.com/spiresd55/SagaVersusThunk#readme",
+  "dependencies": {
+    "create-react-app": "^2.1.8"
+  }
+}
